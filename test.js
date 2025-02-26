@@ -4,3 +4,11 @@ function name1() {
 }
 
 name1();
+
+const obj = {
+    name:"ram",
+    email: "ram@gmail.com"
+}
+
+console.log(obj);
+
